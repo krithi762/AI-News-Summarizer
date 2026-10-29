@@ -1,0 +1,11 @@
+# Dependencies for AI News Summarizer
+streamlit>=1.30.0
+python-dotenv>=1.0.0
+requests>=2.31.0
+feedparser>=6.0.10
+newspaper4k>=0.9.6
+lxml_html_clean>=0.1.0
+beautifulsoup4>=4.12.0
+google-genai>=1.0.0
+scikit-learn>=1.4.0
+plotly>=5.18.0
